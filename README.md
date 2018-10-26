@@ -18,6 +18,7 @@ Check it out in live action [here](https://boiling-lowlands-86012.herokuapp.com/
 Sign up for a user account or use the guest account provided here to check out the app:
 
 Email Address: who@mail.com
+
 Password: who
 
 
