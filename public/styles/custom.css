@@ -22,11 +22,12 @@ body {
 }
 
 .jumbotron {
-    height: 100vh;
+    height: 120vh;
 }
 .jumbotron-title {
     color: darkred;
     font-weight: 1000;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .navbar .navbar-nav .nav-item .create-recipe-link {
